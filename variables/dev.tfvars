@@ -1,0 +1,5 @@
+vnet_cidr  = "10.1.8.0/26"
+sbnet_cidr = "10.1.8.0/26"
+env        = "dev"
+resource_group_name = "West Europe"
+location = "West Europe"

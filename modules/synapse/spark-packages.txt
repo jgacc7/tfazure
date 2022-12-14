@@ -1,0 +1,2 @@
+pandas_profiling==3.1.0
+autoviz==0.1.28
